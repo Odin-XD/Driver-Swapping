@@ -1,7 +1,7 @@
 /*
  * ZwSwapCert - Windows Driver Signature Bypass Framework
  * 
- * Copyright (c) 2024 Daku/beimaan & CruzX
+ * Copyright (c) 2026 Daku/beimaan & CruzX
  * All rights reserved.
  * 
  * This software is provided for educational and research purposes only.
